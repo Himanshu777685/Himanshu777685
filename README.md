@@ -9,8 +9,8 @@
 ---
 
 ## 🔥 My Tech Stack  
-- **Languages:** C, HTML, CSS (Currently Learning)  
-- **Web Development:** Frontend Basics (HTML & CSS)  
+- **Languages:** C, HTML, CSS , Java Script , MongoDB
+- **Web Development:** Frontend & Backend Basics , (HTML , CSS & Java Script)  
 - **AI & Data Science:** Learning the fundamentals  
 - **Tools:** Git, GitHub  
 
@@ -18,7 +18,7 @@
 
 ## 📌 Current Focus  
 ✔ **Mastering C Programming** 🔄  
-✔ **Learning Web Development (Next: JavaScript & Backend)** 💻  
+✔ **Learning Web Development** 💻  
 ✔ **Exploring Hackathons & Open Source Contributions** 🚀  
 ✔ **Building Projects for GitHub Portfolio**  
 
