@@ -30,12 +30,13 @@
 🚧 [Netflix Clone (Frontend)](#) 🎬 (Coming Soon)  
 
 ---
+## 🌐 Connect With Me
 
-## 🌐 Connect With Me  
 🔗 **GitHub:** [Himanshu77685](https://github.com/Himanshu777685)  
-🔗 **LinkedIn:** [Himanshu Kumar](www.linkedin.com/in/himanshu-kumar-317408317)   
+🔗 **LinkedIn:** [Himanshu Kumar](https://www.linkedin.com/in/himanshu-kumar-317408317)
 
-💬 Feel free to **connect, collaborate, or discuss ideas**!  
+💬 Feel free to **connect, collaborate, or discuss ideas**!
+
 
 ---
 
