@@ -3,21 +3,21 @@
 ## 🚀 About Me  
 🎓 B.Tech CSE (Data Science) | AKTU '2028  
 💡 Passionate about **problem-solving, full-stack development, and AI**  
-📌 Currently exploring **C, Web Development, and Hackathons**  
+📌 Currently exploring **C++, Web Development, and Hackathons**  
 🎯 Goal: Build a **study material organizer with AI chatbot & social features**  
 
 ---
 
 ## 🔥 My Tech Stack  
-- **Languages:** C, HTML, CSS , Java Script , MongoDB
-- **Web Development:** Frontend & Backend Basics , (HTML , CSS & Java Script)  
+- **Languages:** C, HTML, CSS , Java Script , MongoDB ,React , C++
+- **Web Development:** Frontend(HTML , CSS , JAVA SCRIPT , REACT) & Backend Basics(NODE JS , EXPRESS JS , MONOGO-DB)  
 - **AI & Data Science:** Learning the fundamentals  
 - **Tools:** Git, GitHub  
 
 ---
 
 ## 📌 Current Focus  
-✔ **Mastering C Programming** 🔄  
+✔ **Mastering C++ Programming** 🔄  
 ✔ **Learning Web Development** 💻  
 ✔ **Exploring Hackathons & Open Source Contributions** 🚀  
 ✔ **Building Projects for GitHub Portfolio**  
@@ -42,8 +42,7 @@
 
 ### 🎯 Future Plans  
 ✔ Learn **Full-Stack Development (MERN / Django)**  
-✔ Participate in **Hackathons & Open Source**  
-✔ Get a **Computer Science Internship by 2nd Year**  
+✔ Participate in **Hackathons & Open Source**   
 ✔ Work on my **Startup Idea**  
 
 ---
