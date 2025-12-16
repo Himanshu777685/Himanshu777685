@@ -25,9 +25,9 @@
 ---
 
 ## 📂 My Projects  
-🚧 [Study Material Organizer with AI Chatbot (Coming Soon)](#)  
-💻 [C Language Problem-Solving Repo (Coming Soon)](#)  
-🚧 [Netflix Clone (Frontend)](#) 🎬 (Coming Soon)  
+
+💻 [C++ Language Problem-Solving Repo (Coming Soon)](#)  
+
 
 ---
 ## 🌐 Connect With Me
