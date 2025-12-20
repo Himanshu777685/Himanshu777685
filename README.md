@@ -27,6 +27,8 @@
 ## 📂 My Projects  
 
 💻 [C++ Language Problem-Solving Repo](https://github.com/Himanshu777685/Cpp.git)  
+💳 [💳 Card Manager – A clean and simple card management app built for learning and practice.](https://github.com/Himanshu777685/card_manager.git)
+
 
 
 ---
