@@ -155,7 +155,9 @@ Areas I'm working with include:
 * Dynamic Programming
 * Tries
 
-🔗 **[C++ Problem Solving Repository](https://github.com/Himanshu777685/Cpp)**
+I regularly practice DSA problems on LeetCode and continue expanding my problem-solving skills across different topics.
+
+🔗 **[View My LeetCode Profile](https://leetcode.com/u/Himanshu0112/)**
 
 ---
 
